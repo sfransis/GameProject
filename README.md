@@ -1,2 +1,2 @@
 # 2D RPG Game
-Unity RPG
+Landing page: https://InlaidData.github.io/Pages
