@@ -1,2 +1,2 @@
-# GameProject
+# 2D RPG Game
 Unity RPG
